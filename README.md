@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Malka Naaz 👋
 
-<!--
-**Malka23/Malka23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗 Architect transitioning into AI & Machine Learning
+🤖 Building ML, NLP & GenAI applications
+📊 Focused on solving real-world problems with data
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+
+I come from an Architecture background and am now transitioning into Artificial Intelligence and Machine Learning.
+My strength lies in structured thinking, spatial reasoning, and translating complex problems into practical solutions.
+
+Currently building end-to-end ML and NLP applications using Python.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Libraries:**
+Python, Pandas, NumPy, Scikit-learn, LightGBM, PyTorch
+
+**AI & NLP:**
+Hugging Face, FAISS, RNN (LSTM), Text Vectorization
+
+**Tools:**
+Streamlit, Git, GitHub, VS Code
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/ar-malka-naaz-870338145/
+
+---
+
+⭐ Always building. Always learning. Always improving.
+t: ...
 -->

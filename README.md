@@ -1,6 +1,6 @@
 # Hi, I'm Malka Naaz 👋
 
-🏗 Architect → AI & Machine Learning Engineer (in transition)
+🏗 AI & Machine Learning Engineer
 🤖 Building ML, NLP & GenAI applications
 📊 Turning real-world problems into data-driven solutions
 

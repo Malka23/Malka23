@@ -1,26 +1,31 @@
 # Hi, I'm Malka Naaz 👋
 
 🏗 AI & Machine Learning Engineer
-🤖 Building ML, NLP & GenAI applications
+🤖 Building end-to-end AI systems using Machine Learning, NLP, Computer Vision & Generative AI
 📊 Turning real-world problems into data-driven solutions
 
 ---
 
 ## 🚀 About Me
 
-I am an Architect transitioning into AI & Machine Learning, bringing strong structured thinking, spatial intelligence, and analytical problem-solving into the world of data and AI.
+I am an Architect transitioning into Artificial Intelligence and Machine Learning, combining structured design thinking, spatial intelligence, and analytical problem-solving with data-driven AI development.
 
-I design and build end-to-end Machine Learning, NLP, and GenAI applications focused on real-world impact — including media bias detection, demand forecasting, healthcare prediction, and intelligent document retrieval systems (RAG).
+I build real-world AI applications and systems across multiple domains including prediction, automation, content generation, recommendation systems, and intelligent retrieval (RAG). My focus is on developing end-to-end, production-ready AI solutions rather than just standalone models.
 
-My goal is to develop scalable, production-ready AI systems that bridge domain expertise with modern machine learning.
+I have worked on 14+ projects covering both academic and internship experience, including ML pipelines, NLP systems, GenAI applications, and agent-based automation tools.
 
-**Currently deepening expertise in:**
+**🧠 Core Expertise**
 
-* Machine Learning & Deep Learning
-* Natural Language Processing (NLP)
-* Retrieval-Augmented Generation (RAG)
-* AI-powered web apps using Streamlit
-* Applied model evaluation & optimization
+* Machine Learning (Regression, Classification, Clustering)
+* Deep Learning (Neural Networks, CNNs, RNNs/LSTMs)
+* Natural Language Processing (TF-IDF, Embeddings, Transformers)
+* Generative AI (Prompt Engineering, LLM-based applications)
+* Retrieval-Augmented Generation (RAG) systems
+* Agentic AI systems (multi-step automated workflows)
+* Computer Vision (image-based analysis systems)
+* Time Series Forecasting & Predictive Modeling
+* Recommendation & Information Retrieval systems
+* AI-powered automation (content, email, workflow systems)
 
 ---
 
@@ -29,30 +34,37 @@ My goal is to develop scalable, production-ready AI systems that bridge domain e
 👩‍💻 Programming & Data
 
 Python • Pandas • NumPy • Scikit-learn • Matplotlib
+
 Data Handling: CSV • JSON
 
-🤖 Machine Learning
+🤖 Machine Learning & AI
 
 Regression • Classification • Clustering
 Feature Engineering • Model Evaluation
 LightGBM • PyTorch
 
+🤖 Deep Learning 
+
+PyTorch • CNN • RNN • LSTM
+
 🧠 NLP & Generative AI
 
 TF-IDF • Cosine Similarity • Sentence Embeddings
-RNN (LSTM) • Hugging Face Transformers
+LangChain • Hugging Face Transformers
 FAISS • Prompt Engineering
+
+🌐 Applied AI Systems:
+
+RAG Pipelines • Agentic AI • Recommendation Systems
+Search & Retrieval Systems • Content Generation Engines
+
+🎨 Computer Vision:
+
+Image Classification • Feature Extraction
 
 🌐 AI Application Development
 
-Streamlit • Git • GitHub
-
-🎨 Design & Architecture Background (Unique Edge)
-
-AutoCAD • SketchUp • Enscape • Photoshop
-Figma • Canva • Illustrator
-
-Bringing strong visual reasoning and spatial intelligence into AI system design.
+Streamlit • Git • GitHub • APIs
 
 🤝 Professional Strengths
 
@@ -61,12 +73,24 @@ Client Communication • Team Collaboration
 
 ---
 
-## 📈 Current Learning Roadmap
+## 🎨 Unique Advantage
 
-* Advanced Deep Learning architectures
-* Transformer-based NLP
-* Production ML pipelines
-* LLM-powered applications
+Coming from an Architecture background, I bring:
+
+Strong visual and spatial reasoning
+Structured system design thinking
+High attention to user experience and workflows
+Strong problem decomposition skills for complex systems
+
+---
+
+## 📈 Current Focus
+
+* Advanced Transformer architectures
+* LLM-powered intelligent agents
+* Scalable production ML pipelines
+* Multi-agent AI systems
+* Real-world AI product development
 
 ---
 
@@ -78,5 +102,3 @@ https://www.linkedin.com/in/malka-naaz-870338145
 ---
 
 ⭐ Always building. Always learning. Always improving.
-t: ...
--->
